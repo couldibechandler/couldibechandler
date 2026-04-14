@@ -6,4 +6,4 @@
 <sub> ㅤ(ノ_<、)
 
 
-ㅤ<img src="https://komarev.com/ghpvc/?username=couldibechandler-username&color=8baadd&style=plastic&label=💤&abreviated=true">
+ㅤ<img src="https://komarev.com/ghpvc/?username=couldibechandler-username&color=bfcfe9&style=plastic&label=quack!&abreviated=true">
