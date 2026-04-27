@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/kyk807.png" title="꒰　New Layout Soon　꒱" width="180" height="180" >
+꒰ New Layout Soon ꒱
 
 
 <sub> ㅤᡕᠵデᡁ᠊╾━
