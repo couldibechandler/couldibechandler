@@ -1,9 +1,8 @@
 <div align="center">
-  
-ㅤ <img src="https://files.catbox.moe/kyk807.png" title="꒰　Chandler's Goose　꒱" width="150" height="150" >
+
+<img src="https://files.catbox.moe/kyk807.png" title="꒰　New Layout Soon　꒱" width="180" height="180" >
 
 
-<sub> ㅤ(ノ_<、)
+<sub> ㅤᡕᠵデᡁ᠊╾━
 
-
-ㅤ<img src="https://komarev.com/ghpvc/?username=couldibechandler-username&color=bfcfe9&style=plastic&label=quack!&abreviated=true">
+<img src="https://komarev.com/ghpvc/?username=couldibechandler-username&color=555555&style=plastic&label=ARMY&abreviated=true">
