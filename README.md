@@ -1,10 +1,14 @@
 <div align="center">
 
-<img width="170" height="194" src="https://github.com/user-attachments/assets/ac11d92d-6d06-4555-a721-4af7b8441122" />
+<img width="380" height="500" align="right" src="https://files.catbox.moe/f0qbbq.png">
 
-꒰ New Layout Soon ꒱
+<img width="330" height="190" align="center" src="https://files.catbox.moe/kx4i6e.png" />
 
+$\text{\color{#A5C4F5} or pinkman, lucifer}$\
+$\text{\color{#B6D3F8} minor turkish taken}$\
+$\text{\color{#C9E2FC} none/he/dog/ask prns}$
 
-<sub> ㅤᡕᠵデᡁ᠊╾━
+[<img width="120" height="28" src="https://files.catbox.moe/kwmofq.png">](https://github.com/deepinkman)
 
-<img src="https://komarev.com/ghpvc/?username=couldibechandler-username&color=555555&style=plastic&label=ARMY&abreviated=true">
+$\text{\color{#D4EBFE} creds to: c00Igui}$\
+$\text{\color{#D4EBFE} !!STILL A WIP!!}$
